@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project Notebook
+Repository for Applied Data Science Capstone on Coursera
